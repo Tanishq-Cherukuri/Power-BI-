@@ -38,5 +38,5 @@
 * Administration of Workspaces
 * Monitoring Usage and Performance Metrics
   
-## interview questions
-## cheat sheet
+## Interview questions
+## Cheat sheet
